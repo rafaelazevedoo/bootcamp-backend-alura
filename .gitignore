@@ -1,0 +1,5 @@
+username mongo : rafaelazevedo
+password : UimsCSVeVoplNdQA
+
+mongodb+srv://rafaelazevedo:UimsCSVeVoplNdQA@cluster0.y44w5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+.env
