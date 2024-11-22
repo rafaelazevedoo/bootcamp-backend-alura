@@ -1,0 +1,1 @@
+Criação e manutenção do projeto, através de NODE.js
